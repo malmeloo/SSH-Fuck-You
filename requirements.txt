@@ -1,0 +1,4 @@
+twisted[conch]
+zope
+opencv-python
+numpy
