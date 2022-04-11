@@ -13,7 +13,7 @@ _Low frame rate is due to recording. It's better in person, I promise ;)_
 
 <details>
 <summary>Show GIF</summary>
-![demo](assets/demo.gif)
+<img src="assets/demo.gif" alt="Demo GIF">
 </details>
 
 ## Features
